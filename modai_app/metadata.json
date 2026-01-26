@@ -1,7 +1,0 @@
-{
-  "name": "Modai - Outfits perfectos, cero esfuerzo",
-  "description": "Una aplicación de moda premium impulsada por IA que crea outfits personalizados, analiza tu estilo y sugiere prendas de marcas reales.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
